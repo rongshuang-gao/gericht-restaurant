@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Fully Responsive Restaurant Website
+Visit [here](https://rongshuang-gao.github.io/gericht-restaurant/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Run project in your local machine
 
 In the project directory, you can run:
 
